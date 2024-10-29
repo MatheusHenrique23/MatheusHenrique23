@@ -2,7 +2,7 @@
 ### Olá Eu sou o Matheus Henrique ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-5bb087213/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_matheus_2304/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maciell_matheus/)
 
 ![Matheus Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique23&show_icons=true&theme=dracula)
 
